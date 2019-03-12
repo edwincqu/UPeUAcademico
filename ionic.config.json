@@ -1,5 +1,7 @@
 {
   "name": "UPeUAcademico",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
